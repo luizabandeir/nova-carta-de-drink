@@ -1,2 +1,2 @@
-# nova-carta-de-drink
-Fichas técnicas da nova carta de drinks do Zelig Drink Bar
+# Drinks Zelig
+Nova carta de drinks do Zelig Drink Bar
