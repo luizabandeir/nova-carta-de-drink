@@ -1,4 +1,4 @@
-# Nova Carta de Drinks Zelig :tropical_drink:
+# Drinks Zelig :tropical_drink:
 
 
 
