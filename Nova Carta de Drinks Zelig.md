@@ -4,34 +4,34 @@
 
 ## Autorais
 
-* ### The power of the Dog
+* ### [The power of the Dog](.//Drinks%20Autorais/The%20power%20of%20the%20Dog.md)
 
   
 
-* ### No Ritmo do coração
+* ### [No Ritmo do coração](./Drinks%20Autorais/No%20Ritmo%20do%20coração.md)
 
   
 
-* ### Cruela
+* ### [Cruela](./Drinks%20Autorais/Cruela.md)
 
   
 
-* ### Amor, Sublime Amor
+* ### [Amor, Sublime Amor](./Drinks%20Autorais/Amor%2C%20Sublime%20Amor.md)
 
   
 
-* ### King Richard
+* ### [King Richard](./Drinks%20Autorais/King%20Richard.md)
 
   
 
-* ### Duna
+* ### [Duna](./Drinks%20Autorais/Duna.md)
 
   
 
-* ### Summer of Soul
+* ### [Summer of Soul](./Drinks%20Autorais/Summer%20of%20Soul.md)
 
   
 
-* ### Encanto
+* ### [Encanto](./Drinks%20Autorais/Encanto.md)
 
   
